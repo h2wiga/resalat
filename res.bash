@@ -24,3 +24,4 @@ elif [ "$code" == "3341394109" ]; then
 else
     echo -e "\e[31mخطا: کد ملی نامعتبر است!\e[0m"
    fi
+   fi
